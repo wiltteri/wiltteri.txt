@@ -1,14 +1,15 @@
 msFilterList
-# Version: 201504251915
+# Version: 201504251941
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 25 Apr 2015 19:15 UTC
+# Last modified: 25 Apr 2015 19:41 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
 #
 # -------------------- general-block.txt -------------------- !
 - /mainokset.
+- /mainokset/*
 - /mainokset_
 - /mainos.
 - /mainos/*
@@ -17,6 +18,7 @@ msFilterList
 - /mainosbanneri/*
 - /mainosbanneri_
 - /mainosbannerit.
+- /mainosbannerit/*
 - /mainosbannerit_
 - /mainoskaruselli.
 - /mainoskaruselli/*
@@ -589,9 +591,6 @@ msFilterList
 -d kalamies.com /images/banners/
 -d kalastajanmaailma.com /PublisherFishinglordsBannerPicture?
 -d kalastuslinkit.com /bann/
--d kaleva.fi /avoimia-tyopaikkoja-paperilehdesta/
--d kaleva.fi /EAS_fif.js
--d kaleva.fi /paivan-vinkit-paperilehdesta/
 -d kalevatravel.fi /cms*/*bannerit/
 -d kalpa-hockey.fi /media/*banneri_
 -d kalpa-hockey.fi /media/rollover_*.png
@@ -1806,15 +1805,5 @@ msFilterList
 -d snstatic.fi /sanoma_bt.js
 -d tiede.fi /uutisboksi/
 # -------------------- whitelist-block.txt -------------------- !
-+d eas.almamedia.fi /crossdomain.xml
-+d feissarimokat.com /advertisement.js
-+d moontv.fi /bannerit/fb_banneri.jpg
-+d murobbs.plaza.fi /adfr.js
-+d murobbs.plaza.fi /adframe.js
-+d murobbs.plaza.fi /advertisement.js
-+d muropaketti.com /adframe.js
-+d muropaketti.com /advertisement.js
-+d pics.kuvaton.com /false_advertising.
-+d taskumuro.com /advertisement.js
-+d tuuri.fi /mainokset/
-# Sanoma
++d www.op.fi /mainokset/
+# Ruutu.fi
