@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504252029
+# Version: 201504252041
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 25 Apr 2015 20:29 UTC
+# Last modified: 25 Apr 2015 20:41 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -35,6 +35,9 @@ msFilterList
 - _mainos.
 - _mainosnappi.
 # -------------------- specific-block.txt -------------------- !
+-d autoluettelo.fi /aka/news/*banner
+-d palloliitto.fi /sponsor-main-logo/
+-d vuokralaiset.fi /bannerit2012/
 -d xracing.fi /tiedostot/
 -d 193.93.132.142 /*ads
 -d 194.188.93.124 /scripts/edoris/edoris.dll?
@@ -107,9 +110,6 @@ msFilterList
 -d artprint.fi /*banner
 -d arvontasivut.com /partner/
 -d asejaosa.fi /images/banners/
--d asiakaspalvelu.fi /images/banner
--d asiakaspalvelu.fi /images/body_bg
--d asrestaurants.com /media/banners/bestofhelsinki
 -d asumisenabc.fi /vrkbanneri.swf
 -d asuntohelppi.fi /bannerit/
 -d asuntoilmoitukset.com /images/banners/
@@ -117,7 +117,6 @@ msFilterList
 -d asuntomessut.fi /bannerihallinta/
 -d asuntotieto.com /Z-bannerit/
 -d ateneum.fi /content/s2/sponsors/
--d atkmaa.fi /logot/
 -d atvpalsta.com /bannerit/
 -d audiovideo.fi /mrhifi-banner/
 -d augustrock.fi /sites/default/files/*-logo.png
@@ -129,8 +128,6 @@ msFilterList
 -d autokouluun.fi /pics/SV2009_Laihian_Autokoulu_Oy_FI_10085.png
 -d autollanepaliin.fi /wp-content/uploads/*banner
 -d autolomat.fi /sites/autolomat/files/bannerit/
--d autoluettelo.fi /aka/news/*banner
--d autoluettelo.fi /aka/news/1488_logot.jpg
 -d automaatioseura.com /images/banners/
 -d automaatiotekniikankilta.fi /gfx/wartsila.gif
 -d autot.oikotie.fi /commercial/iframe?
@@ -174,7 +171,6 @@ msFilterList
 -d canadansanomat.com /graphics/l_
 -d canadansanomat.com /graphics/vapaasana.gif
 -d cancer.fi /res/default20*/img/sponsors
--d capnova.com /~funcfood/pakkotoisto/
 -d caravankauppa.com /bannerit/
 -d central.navigo.fi /bannerit/
 -d centrofinlandia.fi banner
@@ -211,7 +207,6 @@ msFilterList
 -d digitoday.fi /feeds/nosto/
 -d digitoday.fi /radiohelsinkibox.html
 -d digitoday.fi /uutisikkuna.php
--d digivideo.fi /files/mainostajat/
 -d diilit.com /*_spot.html
 -d docpoint.info /maino/
 -d dome.fi /headlines
@@ -970,7 +965,6 @@ msFilterList
 -d pakkotoisto.com /fast/
 -d pallokarhut.fi /jalkapallo/images/banners/
 -d pallokarhut.fi /lentopallo/logot/
--d palloliitto.fi /sponsor-main-logo/
 -d palvelut.hameensanomat.fi /wp-content/rtm/
 -d palvelut.uusisuomi.fi /wp-content/rtm/nosto/cache/us1.js
 -d pan.fotovista.com /tradebanner/europe_nord/pixmania/
@@ -1480,7 +1474,6 @@ msFilterList
 -d ulvila.fi /images/kettumetsa.gif
 -d ulvila.fi /images/nahkamuseo.gif
 -d umami.fi /banners/
--d unelmacuppi.fi /UserFiles/Image/
 -d unibet.com /banners/
 -d untorock.com /img/*sponsorit
 -d untorock.com /kumppanit/
@@ -1580,7 +1573,6 @@ msFilterList
 -d vunet.org /images/anim/
 -d vuokatti.fi /binary/file/-/fid/1655
 -d vuokatticampus.fi /images/ban
--d vuokralaistenkeskusliitto.fi /bannerit/
 -d vuokraturva.fi /images/keskusliitto.png
 -d vuokraturva.fi /images/vuokranantajat.png
 -d vuosaari.fi /images/stories/Logot/
@@ -1600,9 +1592,6 @@ msFilterList
 -d ykliitto.fi /files/images/CGP_banner
 -d ykliitto.fi /files/images/globalis_logo
 -d ykliitto.fi /files/images/ihmisoikeuspeli
--d ylakainuu.fi /alma_init_cjs.js
--d ylakainuu.fi /meedio_yla_kainuu.js
--d ylakainuu.fi /mpbanner/
 -d ylakaupunginyo.fi /images/stories/mainostajat/
 -d ylikerroin.com /forum/ykadzz.php
 -d ylilauta.org /img/1.png
@@ -1641,6 +1630,8 @@ msFilterList
 -d seksikamera.fi /modelsonline.php
 -d seksitreffit.com /mainosmokkula/
 # -------------------- thirdparty.txt -------------------- !
+-d dv.fi /content/images/stories/misc/
+-d uratie.fi
 # Sanoma
 -d oikotie.fi /ext/
 -d tyonantaja.oikotie.fi
