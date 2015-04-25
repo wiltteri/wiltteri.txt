@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504251941
+# Version: 201504252029
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 25 Apr 2015 19:41 UTC
+# Last modified: 25 Apr 2015 20:29 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -35,25 +35,7 @@ msFilterList
 - _mainos.
 - _mainosnappi.
 # -------------------- specific-block.txt -------------------- !
--d 194.204.55.179 /absolutebm/banners/
--d 87.108.55.22 /ads/
--d kuvaton.com /jouluarvonta2012.gif
--d material.dropinmarket.com /dynaamisetbannerit/
--d netti.mtvmedia.fi /media/*/*.swf
--d otavafiles.fi /plaza/s/promot/*jobs*.jpg
--d sa.suntuubi.com /sa/w/i/
--d tehtaanmyymalat.com /images/os_banneri_3b.gif
--d www.caisa.fi /instancedata/prime_product_intranet/helsinki/embeds/030d10081aa98297dd95285a7e31c3597d0c01fa.jpg
--d www.caisa.fi /instancedata/prime_product_intranet/helsinki/embeds/8319d452ff6462d969af5d136c41128c228611c8.jpg
--d www.grl.fi /images/banners/
--d www.koirat.com /bannerimages/
--d www.postikortti.com /*banneri*.jpg
--d www.rafla.fi /banner_182x600.swf
--d www.seiska.fi /flashfiles/*banner*swf
--d www.suomikauppa.fi /images/banners/
--d www.vakuutuskone.com /Images/DatabaseImage.aspx?TableName=Advertisement
--d 1-tori.net /pics/*lotto.gif
--d 1-tori.net /pics/jokeri.gif
+-d xracing.fi /tiedostot/
 -d 193.93.132.142 /*ads
 -d 194.188.93.124 /scripts/edoris/edoris.dll?
 -d 216.92.95.133 /parisuhde/ad
@@ -63,8 +45,6 @@ msFilterList
 -d 83.150.79.76 /banners/
 -d 84.20.150.108 /*banneri.php
 -d 84.20.150.3 /intiimi/
--d 9kuukautta.net .swf
--d 9kuukautta.net /mainos
 -d a-tiilikate.fi /images/stories/*bannerit/
 -d aamukampa.net /tavara/
 -d aamulehti.fi /alma_init_cjs.js
@@ -111,8 +91,6 @@ msFilterList
 -d amt.fi /ylabannerit/
 -d androidsuomi.fi /wp-content/uploads/*_banner_
 -d androidsuomi.fi /page-bg*.png
--d ankkarock.fi /bannerit/
--d ankkarock.fi /logo*.swf
 -d anninjuhla.fi /galleria/oik_kuva3_uus.jpg
 -d anvia.fi /Banners/
 -d apteekkari.fi /media/bannerit/
@@ -140,7 +118,6 @@ msFilterList
 -d asuntotieto.com /Z-bannerit/
 -d ateneum.fi /content/s2/sponsors/
 -d atkmaa.fi /logot/
--d atoplkv.fi /fin/*banner
 -d atvpalsta.com /bannerit/
 -d audiovideo.fi /mrhifi-banner/
 -d augustrock.fi /sites/default/files/*-logo.png
@@ -167,7 +144,6 @@ msFilterList
 -d bannerinvaihto.fi
 -d banneriverkko.fi
 -d banners.nebula.fi
--d barpraha.fi /fileadmin/template/kuvat/banner
 -d berra.fi /kuvat/*logo
 -d berra.fi /kuvat/RC.jpg
 -d bewi-dog.net /layout_graf/*ban
@@ -187,16 +163,12 @@ msFilterList
 -d bomber.fi /ads/
 -d bomber.fi /images/*banner
 -d bonari.fi /img/banner
--d bookplus.fi /media-dynamic/images/banner/
 -d boostep.fi /images/*taustakuva
 -d boostep.fi /images/bannerit/
 -d botniagames.fi /imagerotator.swf
--d box.smfpromo.fi /?
 -d boy.fi /atk/images/banners/
 -d bronx.fi /nethit/etusivu/banner
 -d bulevardi.fi /bannerikuvat/
--d cafekismus.fi /bannerit/
--d cafekismus.fi /bannerit/
 -d camu.fi /banners/mainos
 -d canadansanomat.com /graphics/*banner
 -d canadansanomat.com /graphics/l_
@@ -219,11 +191,9 @@ msFilterList
 -d cmbravintolat.fi /images/logot/cmb_logot
 -d cmsclub.fi /logot/
 -d co2-raportti.fi /banners/
--d coffeehouse.fi /images/banner
 -d combat.fi /images/*banner
 -d como.fi /kuvat/tausta
 -d contentum.fi
--d coollooc.com /images/banner
 -d coss.fi /images/sponsorlogos.jpg
 -d creativeleadership.fi /img/*banner
 -d cumulus.fi /stc/cumulus/images/plussalogo
@@ -252,7 +222,6 @@ msFilterList
 -d dvdplaza.fi /valkokangas2v.gif
 -d dynamiitti.com /pix/dyny.gif
 -d dynamiitti.com /pix/icelink_banneri.gif
--d e-finland.org /images/banners/
 -d e-savuke.com /bannerit/
 -d easiakirjat.fi /images/banner
 -d eastrockbikemeet.com /images/logos/kopteri.png
@@ -266,7 +235,6 @@ msFilterList
 -d ekokompassi.fi /kuvat/ala_logot.gif
 -d elamalapselle.fi /banner/
 -d elamantapaliitto.fi /images/stories/bannerit/
--d elektroni.fi /images/*banner
 -d eliittikisat.fi /sites/default/files/imagecache/Main_Sponsors_Bottom_Inverted_Eliittikisat/
 -d ellivuori.fi /liitetiedostot/kuvanostot/
 -d elmu.fi /kuvat/mukana_menossa/kultturiasiainkeskus.gif
@@ -292,22 +260,17 @@ msFilterList
 -d euroviisuklubi.fi /images/banners/
 -d event-travel.fi /static/images/partners/
 -d eventeam.fi /images/logot.
--d extraviihde.fi /images/stories/banners/
 -d f-musiikki.fi /images/stories/bannerit/
 -d f1-forum.fi /banner
 -d f1-forum.fi /*banner
 -d faces.fi /sumuSHOP/kuvat/yhteistyokumppanit
 -d fantasiapelit.com /sotavasara/
--d farkku.com /idevaffiliate/banners/
 -d farmit.net /farmit/kuvat/Bannerit/
 -d fast.fi /images/stories/banner
 -d fast.fi /pakkotoisto
--d fauna.fi /images/banners/
 -d fbtpori.fi /etusivusponssi*.asp
 -d fc.tps.fi /files/*_banner
 -d fchaka.fi /images/*banner
--d fchonka.fi /bannerit/
--d fchonka.fi /img/sponsors_all.png
 -d fckuusysi.fi /sponsors/
 -d fclahti.fi /etusivusliderlogot/
 -d fctps.fi /sponssit_
@@ -368,10 +331,8 @@ msFilterList
 -d fuengirola.fi /sites/default/files/*banner
 -d futuuriry.net /images/kylterinet.gif
 -d fvwa.fi /images/banners/
--d gastronautti.fi /ad
 -d genealogia.fi /images/banners/
 -d geocache.fi /images/Garmin_logo_p2.png
--d getinspired.fi /images/mainos
 -d giga.fi /kuvat/citec2.jpg
 -d golf.fi /pics/banner
 -d golfcoat.fi /site/bannerit/
@@ -398,7 +359,6 @@ msFilterList
 -d harjoittelu.net /images/bannerit/
 -d hartwall-areena.com /banner/
 -d hartwallarena.fi /collaboration-logos.
--d hauva.com /sites/hauva.com/themes/hauva/bannerit/
 -d haven.fi /images/banners/
 -d heinola.net /data/jyraa/logot2.jpg
 -d heinola.net /gfx/banner/
@@ -413,12 +373,10 @@ msFilterList
 -d helsinki.fi /fi/index/seuranta.stx?
 -d helsinkibeerfestival.com /img/*banner
 -d helsinkiexpert.com /*banner
--d helsinkilivefestival.fi /general/banners/
 -d helsinkimissio.fi /images/banners/
 -d helsinkitimes.fi /htimes/images/*.swf
 -d helsinkitimes.fi /media/*.swf
 -d helsky.net /uploadkuvat/*banner
--d helsy.com /images/banners/
 -d helvetin16.com /666/flash-ruletti/
 -d herkut.net /logopalkki
 -d herttahouse.com /kuvat/*banner
@@ -438,11 +396,9 @@ msFilterList
 -d himosareena.fi /images/stories/banner
 -d himosareena.fi /images/stories/front/banner
 -d himosfestival.com /img/kumppanit.png
--d himosmaailma.fi /images/banners/
 -d himosnews.com /images/banner
 -d himosteatteri.fi /images/logo
 -d hinku.net /Portals/*/Kuvat/*banner
--d hintakeisari.fi /kampanjat/
 -d hintaseuranta.fi /affiliatebannerit/
 -d hintaseuranta.fi /pohjat/etusivunosat/*.aspx?kumppani=
 -d hintaseuranta.fi /ScriptResource.axd?
@@ -452,7 +408,6 @@ msFilterList
 -d hintavertailu.muropaketti.com /a/
 -d hintavertailu.muropaketti.com /ilmoitus_bg.gif
 -d hippos.fi /banner/
--d historicralli.net /images/*mainos.jpg
 -d hiusyrittajat.fi /Kannatusj%C3%A4senent-20121112.jpg
 -d hiusyrittajat.fi /sam-images/
 -d hiusyrittäjät.fi /logo_
@@ -530,7 +485,6 @@ msFilterList
 -d isojano.fi /images/Fosters_logo.jpg
 -d ita-savo.fi /Ilmoitukset/
 -d ita-savo.fi /mainospaikat/
--d itfinstituutti.fi /themes/instituutti/kumppanit/
 -d itnyt.fi /sites/default/files/banner-
 -d jaapuisto.fi /wp-content/uploads/*banner
 -d jabell.fi /images/banner
@@ -547,7 +501,6 @@ msFilterList
 -d jarvilohi.net /images/footer.gif
 -d jarviradio.net /images/banners/
 -d jarviradio.net /images/stories/m/
--d jarvisuomensafarit.fi /images/banner
 -d jazzrytmit.com /images/banners/
 -d jklpaviljonki.fi /finnmateria20*/logot_yht_tyo
 -d joensuunkataja.fi /katajabasket/images/bannerit/
@@ -590,7 +543,6 @@ msFilterList
 -d kalajokimatkailu.fi /media/files/bannerit/
 -d kalamies.com /images/banners/
 -d kalastajanmaailma.com /PublisherFishinglordsBannerPicture?
--d kalastuslinkit.com /bann/
 -d kalevatravel.fi /cms*/*bannerit/
 -d kalpa-hockey.fi /media/*banneri_
 -d kalpa-hockey.fi /media/rollover_*.png
@@ -644,8 +596,6 @@ msFilterList
 -d keravankameraseura.net /banners/
 -d keravaralli.fi /images/banners/
 -d kesamaa.fi /banners/bannerit/
--d keski-himos.fi /images/a-rakennuttajat.jpg
--d keski-himos.fi /images/honka.jpg
 -d keskipohjanmaa.* /bannerit/
 -d kestopalkki.fi /img/3.gif
 -d kesyrottayhdistys.fi /images/banners/
@@ -677,7 +627,6 @@ msFilterList
 -d kokkola.fi /etusivu/*/etusivu/_files/*/default/asuntomessut_p.jpg
 -d kokkola.fi /etusivu/*/etusivu/_files/*/default/vesiveijarilogo.jpg
 -d kokouspaikat.com /user_data/banneri/
--d kolaripaikka.com /nebula_hosted.gif
 -d kolicultura.fi /openimage/318.jpg
 -d koneviesti.fi /fi_FI/etusivu/_files/*/default/*banner
 -d konsolifin.net /javascripts/ad/
@@ -708,13 +657,10 @@ msFilterList
 -d kuhmolainen.fi /alma_init_cjs.js
 -d kuhmolainen.fi /meedio_kuhmolainen.js
 -d kuhmolainen.fi /mpbanner/
--d kukkura.fi /tpankki-theme/images/common/*banner
 -d kulmassa.fi /wp-content/uploads/*/banner
 -d kulttuuri.net /easydata/customers/kulttuuriuutiset/files/bannerit/
--d kulttuuriverkko.fi /files/kulttuuriverkko-files/imagecache/*/bannerit/
 -d kulttuurivihkot.fi /lehti/images/banners/
 -d kuna.fi /files/keuna.com.kotisivukone.com/kuvat/nal_logot_ilman_leimaa.jpg
--d kunnossa.fi /gfx/logo-footer.png
 -d kuopionsuunnistajat.fi /images/banners/
 -d kuopiorock.com /img/sokoshotel-banner.png
 -d kuopiowinefestival.com /2010/kuvat/smatkat_viini
@@ -791,7 +737,6 @@ msFilterList
 -d lomaseutu.fi /images/*/mainos
 -d loop.fi /content-ad/
 -d lops.fi /Bannerit/
--d lounaat.com /images/bannerit/
 -d lounastauko.fi /banners/
 -d loytotavara.net /*.swf
 -d loytotavara.net /g4s
@@ -804,7 +749,6 @@ msFilterList
 -d lumilomat.com /severinkelkat/images/ruka_logo.gif
 -d lumipallo.fi /wp-content/themes/lumipallo/img/*-logo.png
 -d lumitykki.net /maino*/
--d lumonetti.fi /portaali/viihde_nosto/
 -d lumous.net /bannerit/
 -d luontokuva.org /media/kumppanit/
 -d luontotupa.net /images/rajala_pro_shop.gif
@@ -815,7 +759,6 @@ msFilterList
 -d luoteisvayla.fi /mpbanner/
 -d luotettavakauppa.fi /images/org/banneri_
 -d lusto.fi /resources/Image/bannerit/
--d lynxnet.fi /data/banners/
 -d maailma.net /files/images/*banner
 -d maailmankaupat.fi /kirahvi/kuvat/bannerit/
 -d maallemuutto.info /Bannerit/
@@ -841,7 +784,6 @@ msFilterList
 -d maskunpalloseura.fi /site/media/Puustelli-logo-1.jpg
 -d mastiffit.com /kuvat/*banner
 -d matara.fi /images/banners/
--d matka-atlas.fi /img/*banner
 -d matkantekijat.fi /images/euro_iso
 -d matkaviikko.fi /banner/
 -d maxinetti.fi /images/banners/
@@ -905,7 +847,6 @@ msFilterList
 -d mtv3.fi /EAS_redirect.js
 -d mtvkatsomo.fi /multimedia/template/images/teevee/
 -d mtvmedia.fi /eas?
--d muksutmukana.fi /banners/
 -d murobbs.muropaketti.com /campaigns/
 -d murobbs.muropaketti.com /images/uranus/
 -d murobbs.muropaketti.com /jimms/
@@ -991,7 +932,6 @@ msFilterList
 -d nummirock.fi /bannerit/
 -d nuortenhyvaksi.fi /kumppanit.png
 -d nupshockey.fi /banners/
--d nurmeksenelokuvajuhlat.fi /yhteistyobanneri2012_
 -d nutriciababy.fi /bannerit/
 -d odl.fi /banners/
 -d ohjelmointikurssit.com /img/plate
@@ -999,7 +939,6 @@ msFilterList
 -d oindex.fi /static/images/*_banner
 -d olekustannus.com /img/*banner
 -d olympia.fi /pics/banners/
--d omafirma.fi /image/hppp_2009_reverse_vert.gif
 -d omakuva.org /mainosmokkula/
 -d omatieto.fi /images/common/banner
 -d omatieto.fi /tuot/banneri/
@@ -1051,8 +990,6 @@ msFilterList
 -d pelikone.fi /widget/iframe?
 -d peliveljet.com /images/*banner
 -d pellervo.fi /animaatiot/
--d pelletti.org /images/nyberg.png
--d pelletti.org /images/paperi.gif
 -d pellinikahvi.fi /bans/
 -d peralarallyteam.com /images/mainoksia/
 -d perheaikaa.fi /*_logo.png?
@@ -1087,7 +1024,6 @@ msFilterList
 -d piksu.com /finance/piksu_uutisikkunat/
 -d pintakeskus-ketonen.fi /kuvat/*banner
 -d pirkanmaa.fi /files/images/logot/
--d pisara-hanke.fi /kuvat/yhteistyo.gif
 -d pislaploki.com /kumppanit.jpg
 -d pistepirkko.fi /wp-content/uploads/*_affiliate.
 -d pixoff.net /images/banners/
@@ -1098,7 +1034,6 @@ msFilterList
 -d pohjalaisia.com /sport/pesisjunkkarit/banner/
 -d pohjalaisia.com /sport/petojussit/banner/
 -d pohjanmaachapter.fi /gfx/moto.png
--d pohjanmaanyritykset.com /images/banners/
 -d pohjanmaavuonnanolla.fi /sivut/kuvat/kurikkalehti.gif
 -d pohjanmaavuonnanolla.fi /sivut/kuvat/rehupiikles.jpg
 -d pohjanmaavuonnanolla.fi /sivut/kuvat/rr08.jpg
@@ -1110,7 +1045,6 @@ msFilterList
 -d pokerimestari.com /bannerit/
 -d pokerisivut.com /resources/images/skins/
 -d pokeritieto.fi /images/bannerit/
--d poliisi-biitsi.com /adv/
 -d poliisi-biitsi.com /pics/nebula.jpg
 -d polkupyoraily.net /partners/
 -d pomoselka.fi /images/logot/pomoselka-logot_
@@ -1123,7 +1057,6 @@ msFilterList
 -d pori.fi /Pori_Energia_vari-01_90.png
 -d pori.fi /sanser_90.png
 -d porijazz.fi /images/banners/
--d porinkarpat.fi /kuvat/*.swf
 -d poroholma.fi /bannerit/
 -d poroholmagp.fi /bannerit/
 -d portalfiles.kainuu.com /Banner/
@@ -1169,25 +1102,21 @@ msFilterList
 -d raahenseutu.fi /mpbanner/
 -d radalle.com /img/flash_logot/
 -d radalle.com /materiaalit/
--d radio957.fi /files/*sponsor/
 -d radiodei.fi /images/banners/
 -d radiofinlandia.net /images/autonvaraosat24_250x250.gif
 -d radiofinlandia.net /images/banners/*_banner
--d radiomega.fi /files/banners/
 -d radiopooki.fi /kuvat/bannerit/
 -d radiopori.fi /uutislohko/urheilupori
 -d radiosputnik.fi /img/banners/
 -d rafla.fi /ci/plussa
 -d rafla.fi /Hoivanet_banneri_noflash*.gif
 -d raflaopas.fi /bannerit/
--d raflaopas.net /bannerit/
 -d rahtinetti.com /datafiles/banners/
 -d raisio.fi /raisiovisa-220x57px.jpg
 -d raisiokeskus.fi /arch/bannerit/
 -d rajamaenrykmentti.fi /kuvat/logot/
 -d rakennuslehti.fi /img/*_promo.
 -d rakennuslehti.fi /uutisikkuna/kapea.html
--d rakentaa.fi /ban*/
 -d rakentaja.fi /kuvat/bannerit/
 -d rakkausrunot.fi /kuvat/bannerit/
 -d ranneliike.net /bannerit/
@@ -1209,7 +1138,6 @@ msFilterList
 -d rautalampilehti.fi /images/banners/
 -d ravia.fi /banner/
 -d ravintola.fi /files/yhteistyo/
--d rc-harrastus.com /banners/
 -d reisjarvi.fi /maakuntaviesti/Maakuntaviesti_tiedostot/Images/*banner
 -d reittipiste.fi /images/mokkimainos.jpg
 -d rekkurescue.com /pics/sponsors/
@@ -1218,7 +1146,6 @@ msFilterList
 -d remax.fi /files/flash/*banner
 -d remontti.net /Logot/
 -d rentalcars.com /affiliates/
--d rgline.com /medialibrary/data/*banner
 -d riemurasia.net /images/banner_
 -d riemurasia.net /show.php?
 -d riheda.net /banner/
@@ -1230,13 +1157,10 @@ msFilterList
 -d riverball.fi /images/iss_logo.gif
 -d riverball.fi /images/Puma.gif
 -d roi-press.mainostaja.com. /images/ccdate-140x300.gif
--d rokkizine.fi /bannerit*/
 -d rops.fi /bannerit/
 -d rops.fi /kumppanit/
 -d rovaniemenmarkkinat.fi /images/banners/
--d royalartistclub.com /addons/widget*.swf?
 -d rpthaku.fi /*banner
--d rtsmotorsport.com /images/stories/Banners/
 -d ruisrock.fi /bannerit/
 -d ruisrock.fi /karuselli/
 -d ruka.fi /site_images/*banner
@@ -1261,7 +1185,6 @@ msFilterList
 -d saituri.org /wp-content/uploads/*/Kiva_logo.
 -d sajl.fi /@Bin/30
 -d sakkinet.fi /easydata/customers/sakki/files/Bannerit/
--d salakuunneltua.fi /banners/
 -d salibandy.org /banners/
 -d salibandy.org /images/nebula_tarjoaa_yhteydet.gif
 -d salonklipsi.fi /templates/salonklipsi2/images/partner_
@@ -1278,7 +1201,6 @@ msFilterList
 -d satakunnankansa.fi /meedio_satakunnan_kansa.js
 -d satakunnankansa.fi /mpbanner/
 -d sateenkaariperheet.fi /banneri_perheaikaa.jpg
--d sauna-open-air.fi /soa/wp-content/themes/soa/img/links_*.jpg
 -d saunacenterruka.fi /images/finfun.gif
 -d saunacenterruka.fi /images/kelomestarit.gif
 -d saunacenterruka.fi /images/rukaKMO.gif
@@ -1303,8 +1225,6 @@ msFilterList
 -d sell.fi /user_files/banners/
 -d sello.fi /bannerit/
 -d semio.fi /img/header/*banneri.jpg
--d seniorinetti.fi /sites/seniorinetti.fi/files/banners/
--d seniorinetti.fi /themes/base/images/kumppanit/
 -d services.corame.fi /tervemedia/partner-feed/
 -d sestatic.net /banner.
 -d seutuneloset.fi /images/CCDeitti-silma-200x200.jpg
@@ -1336,7 +1256,6 @@ msFilterList
 -d snadistadi.fi /images/wwwkuvat/logo_*.png
 -d snorkkeli.net /images/banners/
 -d snowcastle.net /fi/images/sponsorit
--d soccernet.fi /ad
 -d sodankyla.fi /media/bannerit/
 -d sodexo.fi /banner_sidebar_left/
 -d sofia.fi /_layouts/sofia/images/campaign/
@@ -1365,7 +1284,6 @@ msFilterList
 -d spauk.fi /spauk-vikingline.jpg
 -d speakersforum.fi /themes/speakersforum/img/ilmastotalkoot.jpg
 -d speakersforum.fi /themes/speakersforum/img/speakersforum.jpg
--d speedmotorcircus.fi /sites/speedmotorcircus.fi/themes/speedmotorcircus/img/footer
 -d sportti.com /kuvat/
 -d sporttimedia.fi /kuvat/*banner
 -d sro.fi /images/banners/
@@ -1435,13 +1353,11 @@ msFilterList
 -d suomimeloo.fi /welho%2bvaahteranlehti%2baallot%2blogo%2bwelhonpesa%2btekstill%C3%A4.jpeg
 -d suomipoke.com /banskut/
 -d suonenjoki.fi /kuvat/*banner
--d suorahuuto.fi /banners/
 -d suosikki.fi /img/bannerit/
 -d suositut.net /images/metalli_musiikki.jpg
 -d superjymy.fi /kumppanilogot/
 -d superliitto.fi /datafiles/banners/
 -d supssalibandy.com /thumbs_kumppanit/
--d surfcamp.fi /images/banners/
 -d surmacore.com /kuvat/sponsor
 -d surok.fi /catmax4.jpg
 -d surok.fi /hills.gif
@@ -1450,8 +1366,6 @@ msFilterList
 -d surok.fi /tapiola.gif
 -d susirock.com /sponsorit
 -d suur-saimaa.fi /banners/
--d suurikuu.fi /banners/
--d suurikuu.fi /files/suurikuu/html/banners/
 -d suurkeuruu.fi /alma_init_cjs.js
 -d suurkeuruu.fi /meedio_suur_keuruu.js
 -d suurkeuruu.fi /mpbanner/
@@ -1466,7 +1380,6 @@ msFilterList
 -d ta.fi /etusivu/*.swf
 -d tahko.com /*banner
 -d taksifoorumi.fi /banneri/
--d takuuhuuto.fi /data/banners/
 -d talentum.com /uratie/radiomedia/
 -d talka.fi /images/stories/bannerit/
 -d talko.fi /images/banners/
@@ -1482,7 +1395,6 @@ msFilterList
 -d talousverkko.fi /images/banner
 -d tammerfest.fi /oiva/files/images/*_fosters_300.jpg
 -d tampere-talo.fi /images/partners-
--d tampereairshow.fi /general/banners/
 -d tamperefilmfestival.fi /banners/
 -d tamy.fi /fi/images/banners/
 -d tangomarkkinat.fi /images/org/
@@ -1500,17 +1412,14 @@ msFilterList
 -d tennis.fi /img/sitebanner/
 -d tenojoki.fi /tenopaasivut/images/logot/
 -d terassilehti.fi /images/stories/*banner*/
--d terminfo.fi /media/ban_
 -d terve.fi /sites/default/files/styles/logo-stripe/public/media/
 -d testamentti.fi /*.swf
 -d tevari.fi /*_logo.jpg
 -d tff.fi /banners/
 -d thaiklupi.fi /images/banner
 -d thaimaahan.fi /kuumatad.gif
--d thaimaalainen.com /Bannerit/
 -d thaimaansuomalainen.com /archive/191/banner/
 -d tiaksaa.fi /images/banners/
--d tiede.fi /images/*banner
 -d tiedeuutiset.fi /sideimage.aspx?id=
 -d tieku.fi /emediate.js
 -d tienaus.com /img/*banner
@@ -1525,14 +1434,12 @@ msFilterList
 -d tomaattejatomaatteja.com /kumppanilogot_
 -d top10matkatarjoukset.com /*300_90
 -d top10matkatarjoukset.com /timthumb.php?src=*600x60
--d topkani.fi /flash/slideshow.swf?
 -d toppari.fi /banners/
 -d tops90.fi /kuvat/logo_
 -d tori.fi /banners/
 -d tori.fi /img/match-
 -d torilehti.fi /__nfw_banners/
 -d tornionjoki.fi /images/logot/
--d tosimies.fi /images/lisatuloja.jpg
 -d trainer4you.fi /images/banners/
 -d travel.fi /travelfi/layout_images/*banner
 -d treseta.fi /images/banners/
@@ -1540,7 +1447,6 @@ msFilterList
 -d ts.fi /external/
 -d ts.fi /TS_EAS_fif_v5.html
 -d tsv.fi /images/*banner
--d ttlry.fi /sites/ttl.ttlry.mearra.com/files/imagecache/banner/banner-images/
 -d tukinainen.fi /banners/
 -d tukinet.net /ray.jpg
 -d tukitalo.com /ray.jpg
@@ -1585,7 +1491,6 @@ msFilterList
 -d urheilutapahtumat.fi /tiedostot/Bannerit/
 -d urheiluveikkaus.com /images/40/
 -d urhoklubi.net /images/ban
--d urhotv.fi /templates/URHO_template/flash/
 -d urps.fi /yhteisty%C3%B6kumppanit13.jpg
 -d usasuomeksi.com /Askuvat/*banner
 -d usasuomeksi.com /Uutiskuvat/*banner
@@ -1616,7 +1521,6 @@ msFilterList
 -d valmiskauppa.fi /banners/
 -d valmismatkat.fi /Files/Kuvat/Eurooppalainen.gif
 -d valtikka.fi /bannerit/
--d valto.fi /bannerit/
 -d vamok.fi /layout/tukijat/
 -d vanhempainliitto.fi /_sys_/images/logo_
 -d vantaannuoretasujat.net /files/vantaannuoretasujat.julkaisee.net/kuvat/Logot/
@@ -1628,11 +1532,8 @@ msFilterList
 -d vastapaino.fi /vp/images/banners/
 -d vauhdinmaailma.fi /s/img/bannerit/
 -d vaunut.org /bannerit/
--d vauva.fi /files/images/cover/thumb/
--d vauva.fi /promobox/
 -d vauva.info /tarjous
 -d vauva.info /ts
--d vedonlyonti-linkit.com /gfed
 -d veekasi.net /*banner
 -d vegaaniliitto.fi /kuvat/valitesevegebanneri.jpg
 -d veikkaus.fi /edunsaajamittari/
@@ -1656,9 +1557,6 @@ msFilterList
 -d vierassatamat.fi /index.php?action=bannerimage&bannerimage-id=
 -d vievanhusulos.fi /img/logot.gif
 -d vihreat.fi /files/liitto/images/vl_liitonsivuille
--d viihdeimperiumi.fi /kuvat/loreal
--d viihdeimperiumi.fi /kuvat/nb
--d viihdeimperiumi.fi /pix/Topten_Popmedia1.jpg
 -d viikkosavo.fi /banner_images/
 -d viikonloppu.com /Veikkaus1920x1124.jpg
 -d viiniweb.net /image/*banner
@@ -1678,14 +1576,11 @@ msFilterList
 -d vo2.fi /adds/
 -d voice.fi /files/banners/
 -d voice.fi /files/competition_pictures/
--d voimamesta.com /cat/bannerit/
--d vostok.fi /img/banner
 -d vunet.org /images/*banner
 -d vunet.org /images/anim/
 -d vuokatti.fi /binary/file/-/fid/1655
 -d vuokatticampus.fi /images/ban
 -d vuokralaistenkeskusliitto.fi /bannerit/
--d vuokraovi.com /EAS_fif.html
 -d vuokraturva.fi /images/keskusliitto.png
 -d vuokraturva.fi /images/vuokranantajat.png
 -d vuosaari.fi /images/stories/Logot/
@@ -1697,18 +1592,9 @@ msFilterList
 -d webbi.net /bannerit/
 -d websiterace.com /national/images/banners/
 -d websiterace.com /national/images/stories/bann
--d wiitaunioni.fi /filebank/*banner
--d wiitaunioni.fi /filebank/1670-matkahuolto.gif
--d wiitaunioni.fi /filebank/1671-keskisuomiinfo.gif
--d wiitaunioni.fi /filebank/3327-Seutu_logo_pieni.jpg
--d wiitaunioni.fi /filebank/3441-Kopio*Niemenharjunranta_teksti.jpg
--d wiitaunioni.fi /filebank/400-viisaankivi.jpg
--d wiitaunioni.fi /filebank/401-sahis.jpg
 -d wknd.fi /nrj-logo.png
 -d wknd.fi /sponsor-
--d wsoyoppimateriaalit.fi /flash/*banner/*.swf
 -d yhdistysavain.fi /unions.jpg
--d yhl.fi /images/pardia_logo.gif
 -d yhteishyva.fi /yhteishyva/banneriHallinta/bannerit/
 -d ykliitto.fi /files/images/090407mdg_monitor
 -d ykliitto.fi /files/images/CGP_banner
@@ -1730,14 +1616,9 @@ msFilterList
 -d yllas.fi /sites/default/files/*490x80
 -d ynna.fi /sponsorilogot/
 -d ypj.fi /upload/banners/
--d yrittajan.net /images/banners/
 -d yrityskaupat.net /banners/
 -d yrityskuvalehti.com /style/images/banners/
 -d yrityssastamala.fi /images/vasen
--d ytk-yhdistys.fi /kuvat/lahivakuutus.jpg
--d ytk-yhdistys.fi /kuvat/YTK-Y-banner.gif
--d yyteribeachfutis.fi /img/*banner
--d yyteribeachfutis.fi /upload/bannerit/
 -d adults.fi /ads/
 -d adults.fi /homoseksi.jpg
 -d finswingers.com /img/logos/
@@ -1760,6 +1641,9 @@ msFilterList
 -d seksikamera.fi /modelsonline.php
 -d seksitreffit.com /mainosmokkula/
 # -------------------- thirdparty.txt -------------------- !
+# Sanoma
+-d oikotie.fi /ext/
+-d tyonantaja.oikotie.fi
 -d 81.209.1.241
 -d adservicemedia.dk
 -d aller.fi /banner/
@@ -1795,15 +1679,11 @@ msFilterList
 # Sanoma
 -d iltasanomat.fi /promo/
 -d iltasanomat.fi /uutisboksi/
--d ko.snstatic.fi
 -d meidanperhe.fi /promobox/
--d oikotie.fi /ext/
 -d omakaupunki.hs.fi /iframe/
--d sanomamagazines.fi /promobox/
 -d sestatic.net /banner-iltasanomat.html
 -d snstatic.fi /ads/
 -d snstatic.fi /sanoma_bt.js
--d tiede.fi /uutisboksi/
 # -------------------- whitelist-block.txt -------------------- !
 +d www.op.fi /mainokset/
 # Ruutu.fi
