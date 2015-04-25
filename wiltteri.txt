@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: DvbF8V+nI/uWeotk8/l+ow
-! Version: 201504252041
+! Checksum: dGPY5j/UfzGBdlmUb5VIVA
+! Version: 201504252105
 ! Title: Wiltteri
 ! Description: Finnish supplement list for EasyList
 ! Redirect: https://raw.githubusercontent.com/wiltteri/subscriptions/master/wiltteri.txt
-! Last modified: 25 Apr 2015 20:41 UTC
+! Last modified: 25 Apr 2015 21:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/wiltteri/
 ! License: http://unlicense.org/
@@ -3732,6 +3732,11 @@ seksitreffit.fi##table[width="1024"][bgcolor="#d31517"]
 ||snstatic.fi^*/sanoma_bt.js
 ! -------------------- whitelist-block.txt -------------------- !
 @@||www.op.fi^*/mainokset/
+! Foxplay.fi
+@@||analytics.edgekey.net^*/akamaiAnalyticsPDKLoader.js$third-party,domain=foxplay.fi
+@@||ficgohub.com^*/doubleclick.js$third-party,domain=foxplay.fi
+@@||imasdk.googleapis.com/js/core/bridge3.$subdocument,third-party,domain=foxplay.fi
+@@||imasdk.googleapis.com^*/ima3.js$third-party,domain=foxplay.fi
 ! Ruutu.fi
 @@||adtech.de/?adrawdata/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi
 @@||nelonenmedia.fi^*/logo/$object-subrequest,third-party,domain=groovefm.fi|hs.fi|iltasanomat.fi|istv.fi|jimtv.fi|livtv.fi|loop.fi|metrohelsinki.fi|nelonen.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruutu.fi

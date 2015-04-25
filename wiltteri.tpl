@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504252041
+# Version: 201504252105
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 25 Apr 2015 20:41 UTC
+# Last modified: 25 Apr 2015 21:05 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -1677,4 +1677,5 @@ msFilterList
 -d snstatic.fi /sanoma_bt.js
 # -------------------- whitelist-block.txt -------------------- !
 +d www.op.fi /mainokset/
+# Foxplay.fi
 # Ruutu.fi
