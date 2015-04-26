@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504261717
+# Version: 201504261843
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 26 Apr 2015 17:17 UTC
+# Last modified: 26 Apr 2015 18:43 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -37,10 +37,12 @@ msFilterList
 # -------------------- specific-block.txt -------------------- !
 -d autolomat.fi /bannerit/
 -d autoluettelo.fi /aka/news/*banner
+-d avoimet.com /javascript/*_suomi.js
 -d fin5.fi /wp-content/uploads/*palkki_
 -d goldenring.fi /banners/
 -d heinola.net /banners/
 -d palloliitto.fi /sponsor-main-logo/
+-d tekniikkaparkki.fi /wp-content/uploads/*_banneri_
 -d vuokralaiset.fi /bannerit2012/
 -d xracing.fi /tiedostot/
 -d 193.93.132.142 /*ads
@@ -779,7 +781,6 @@ msFilterList
 -d media.hongkong.fi /container.swf?
 -d mediaviikko.fi /media/bannerit/
 -d megachat.fi /*banner
--d meidancostablanca.com /images2/lehtiluukku.jpg
 -d melba-group.fi
 -d menaiset.fi /files/images/cover/thumb/
 -d mennaannaimisiin.fi /images/*banner
