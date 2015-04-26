@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504252105
+# Version: 201504261425
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 25 Apr 2015 21:05 UTC
+# Last modified: 26 Apr 2015 14:25 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -35,7 +35,11 @@ msFilterList
 - _mainos.
 - _mainosnappi.
 # -------------------- specific-block.txt -------------------- !
+-d autolomat.fi /bannerit/
 -d autoluettelo.fi /aka/news/*banner
+-d fin5.fi /wp-content/uploads/*palkki_
+-d goldenring.fi /banners/
+-d heinola.net /banners/
 -d palloliitto.fi /sponsor-main-logo/
 -d vuokralaiset.fi /bannerit2012/
 -d xracing.fi /tiedostot/
@@ -127,7 +131,6 @@ msFilterList
 -d autokaupat.net /*_banner.
 -d autokouluun.fi /pics/SV2009_Laihian_Autokoulu_Oy_FI_10085.png
 -d autollanepaliin.fi /wp-content/uploads/*banner
--d autolomat.fi /sites/autolomat/files/bannerit/
 -d automaatioseura.com /images/banners/
 -d automaatiotekniikankilta.fi /gfx/wartsila.gif
 -d autot.oikotie.fi /commercial/iframe?
@@ -149,7 +152,6 @@ msFilterList
 -d bike.fi /img/banner//
 -d bikeplanet.fi /images/logosetti.gif
 -d bikeworld.fi /img/banners/
--d bjjliitto.fi /kv_banneri.swf
 -d blogit.fi /images/bonari.
 -d blues-finland.com /images/cdon/
 -d blues-finland.com /images/Commercial/
@@ -355,10 +357,6 @@ msFilterList
 -d hartwall-areena.com /banner/
 -d hartwallarena.fi /collaboration-logos.
 -d haven.fi /images/banners/
--d heinola.net /data/jyraa/logot2.jpg
--d heinola.net /gfx/banner/
--d heinola.net /gfx/random/
--d heinola.net /gfx/virtavie.jpg
 -d hellapoliisi.fi /yhteistyo-logot/
 -d helmetti.fi /images/banners/
 -d helppoliikkua.fi /wp-content/themes/helppoliikkua/gfx/*logo
@@ -1630,7 +1628,6 @@ msFilterList
 -d seksikamera.fi /modelsonline.php
 -d seksitreffit.com /mainosmokkula/
 # -------------------- thirdparty.txt -------------------- !
--d dv.fi /content/images/stories/misc/
 -d uratie.fi
 # Sanoma
 -d oikotie.fi /ext/
