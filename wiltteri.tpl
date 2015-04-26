@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504261425
+# Version: 201504261717
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 26 Apr 2015 14:25 UTC
+# Last modified: 26 Apr 2015 17:17 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -411,7 +411,6 @@ msFilterList
 -d hollola.fi /uusikunta_banneri.jpg
 -d hollolanurheilijat.com /@Bin/*/Nordea.jpeg
 -d hommaforum.org /kuvia/bannerit/
--d hopeinenomena.net /*banners/
 -d hoplop.fi /tiedostot/seikkailussamukana.jpg
 -d hopottajat.fi /bannerit/
 -d hostinger.fi /banners/
@@ -428,7 +427,6 @@ msFilterList
 -d hyvasanomapalvelut.fi /filebank/*netmission
 -d hyvinkaantahko.fi /*banner
 -d hyvinkaasali.fi /Tiedostot/*/*logo.jpg
--d hyvinvoinnin.fi /public_files/Image/Ladyvita.gif
 -d hyy.helsinki.fi /templates/hyy_*/banneri-
 -d ibbf.fi /images/*banner
 -d iesaf.fi /sauna/images/banners/
@@ -501,7 +499,6 @@ msFilterList
 -d joensuunpalloseura.fi /images/neton.jpg
 -d jokerit.* /banner/
 -d jokikonecup.fi /jokikone/images/banners/
--d jokipojat.com /mestis/www/veikkaus/*banner
 -d josba.fi /images/*.swf
 -d josba.fi /images/banner
 -d josba.fi /swf/
@@ -608,8 +605,6 @@ msFilterList
 -d kites.fi /images/stories/Digi_FIN
 -d kites.fi /images/stories/digibusinessfi
 -d kivijarvi.fi /images/vkivi.jpg
--d klassinen.fi /tiedostot/banneri/
--d klassinen.fi /img/rondolehti.jpg
 -d klikkaaja.net /promo/
 -d klikki.com
 -d kmvlehti.fi /alma_init_cjs.js
@@ -690,7 +685,6 @@ msFilterList
 -d lastenparlamentti.fi /ads/
 -d lattia.net /banner/
 -d laukaanteatteri.info /uusi/images/ltback.gif
--d ldh.fi /images/lnk
 -d leatherheaven.com /editor_files/image/2012/*banner
 -d lehpa.com /images/Flash/
 -d lehtiluukku.fi /flash/*banner.swf
