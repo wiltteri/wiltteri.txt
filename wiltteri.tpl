@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504271314
+# Version: 201504271718
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 27 Apr 2015 13:14 UTC
+# Last modified: 27 Apr 2015 17:18 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -42,7 +42,10 @@ msFilterList
 -d goldenring.fi /banners/
 -d heinola.net /banners/
 -d nesteoilrallyfinland.fi /images/thumbs/
+-d oldstory.fi /wp-content/uploads/*logot_alarimpsu_
+-d oldstory.fi /wp-content/uploads/*ylabanneri_
 -d palloliitto.fi /sponsor-main-logo/
+-d riverball.fi /banners/
 -d tekniikkaparkki.fi /wp-content/uploads/*_banneri_
 -d vuokralaiset.fi /bannerit2012/
 -d xracing.fi /tiedostot/
@@ -1010,7 +1013,6 @@ msFilterList
 -d piksu.com /finance/piksu_uutisikkunat/
 -d pintakeskus-ketonen.fi /kuvat/*banner
 -d pirkanmaa.fi /files/images/logot/
--d pislaploki.com /kumppanit.jpg
 -d pistepirkko.fi /wp-content/uploads/*_affiliate.
 -d pixoff.net /images/banners/
 -d pk-35vantaa.fi /flash/
@@ -1140,8 +1142,6 @@ msFilterList
 -d riku.fi /binary/file/-/fid/1344/
 -d riku.fi /binary/file/-/fid/345/
 -d ringsidegolf.fi /gfx/logos/
--d riverball.fi /images/iss_logo.gif
--d riverball.fi /images/Puma.gif
 -d roi-press.mainostaja.com. /images/ccdate-140x300.gif
 -d rops.fi /bannerit/
 -d rops.fi /kumppanit/
@@ -1161,7 +1161,6 @@ msFilterList
 -d s-pankki.fi /henkiloasiakkaat/*/*/_files/*/default/*.swf
 -d saariselka.fi /rtg*.swf
 -d saaristo-open.fi /wp-content/themes/saaristoopen/images/yhteistyo/
--d saastopankki.fi /VerkkopalvelutWeb/ip/sisalto.do?
 -d sahkoala.fi /bannerit/
 -d saiko.fi /images/banners/
 -d saimaablues.fi /wp-content/uploads/*logo
@@ -1229,7 +1228,6 @@ msFilterList
 -d sirkusfinlandia.fi /wp/img/sponssi/
 -d sisustakotia.fi /uploads/images/banner
 -d sivistys.net /bannerit/
--d sixdegrees.wm.fi /6d/images/banners/
 -d sjk2007.fi /images/org/yhteistyo_
 -d ski.fi /files/skifi/*bannerit/
 -d skootterini.com /images/banners/
