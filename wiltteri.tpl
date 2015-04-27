@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504261843
+# Version: 201504271314
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 26 Apr 2015 18:43 UTC
+# Last modified: 27 Apr 2015 13:14 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -41,6 +41,7 @@ msFilterList
 -d fin5.fi /wp-content/uploads/*palkki_
 -d goldenring.fi /banners/
 -d heinola.net /banners/
+-d nesteoilrallyfinland.fi /images/thumbs/
 -d palloliitto.fi /sponsor-main-logo/
 -d tekniikkaparkki.fi /wp-content/uploads/*_banneri_
 -d vuokralaiset.fi /bannerit2012/
@@ -241,7 +242,6 @@ msFilterList
 -d enklaavi.fi /images/banners/
 -d ennakkolippu.com /kauppa/images/banners/
 -d ensimetri.fi /uploads/images/logot/
--d episodi.fi /kuvat/tausta
 -d eralle.net /site/images/banners/
 -d eroakirkosta.fi /bsrv
 -d esaimaa.fi /tiedostot/ruokapaikka_300x
@@ -868,7 +868,6 @@ msFilterList
 -d nestehaijaa.fi /media/kuvat/*banner
 -d nestehaijaa.fi /media/kuvat/*logo
 -d nestemertala.fi /banner_rotator*.swf
--d nesteoilrallyfinland.fi /images/sponsors/
 -d nettiapaja.net /*banneri
 -d nettiasunnot.fi /assets/images/banneri-
 -d nettiasunto.com /vifBoxBanner.html
