@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504280820
+# Version: 201504281600
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 28 Apr 2015 08:20 UTC
+# Last modified: 28 Apr 2015 16:00 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -49,6 +49,7 @@ msFilterList
 -d pattijoenurheilijat.fi /Bannerit/
 -d pesaysit.fi /imgthumb.php?taulu=linkit
 -d riverball.fi /banners/
+-d takilta.fi /banners/
 -d tekniikkaparkki.fi /wp-content/uploads/*_banneri_
 -d vuokralaiset.fi /bannerit2012/
 -d xracing.fi /tiedostot/
@@ -199,7 +200,6 @@ msFilterList
 -d cmsclub.fi /logot/
 -d co2-raportti.fi /banners/
 -d combat.fi /images/*banner
--d como.fi /kuvat/tausta
 -d contentum.fi
 -d coss.fi /images/sponsorlogos.jpg
 -d creativeleadership.fi /img/*banner
@@ -319,14 +319,6 @@ msFilterList
 -d foorumi.info /images/bonari.
 -d foorumi.org /images/bonari.
 -d foorumit.fi /images/bonari.
--d foreca.fi /img/*mixed
--d foreca.fi /img/*rainy
--d foreca.fi /img/*sunny
--d foreca.fi /img/*takeover
--d foreca.fi /img/ForecaLeft_
--d foreca.fi /img/ForecaRight_
--d foreca.fi /img/wallpaper/
--d foreca.fi /foreca_haltuunotto_kehys.
 -d formamessut.fi /*banner
 -d fortone.fi /*bann
 -d forum24.fi /admin/db/bannerit/
@@ -468,7 +460,6 @@ msFilterList
 -d incat.fi /Portals/*/Kuvat/*banner*/
 -d indecs.info /joomla*/images/stories/
 -d indecs.info /joomla*/images/yritykset/
--d inferno.fi /kuvat/tausta
 -d ircpics.com /images/new468x60.jpg
 -d ircquotes.fi /easypokerdeals_banner_black.png
 -d iro.fi
@@ -568,8 +559,6 @@ msFilterList
 -d karppaus.info /images/*.swf
 -d karsamaenkesa.fi /sivut/images/banners/
 -d karstula.fi /banner
--d karstulanseutu.fi /logo_valkophja*.jpg
--d karstulanseutu.fi /Y4_logo.jpg
 -d kase.fi /bannerit/
 -d katinkullanosakasklubi.fi /kuvat/osakas.jpg
 -d kauban.kotimaanetti.fi
@@ -1154,10 +1143,8 @@ msFilterList
 -d ruka.fi /site_images/*banner
 -d rukaslalom.fi /images/stories/osuuskauppa.jpg
 -d rukaslalom.fi /images/stories/rukapyhalogo_rgb.png
--d rumba.fi /kuvat/tausta
 -d runnersmagazine.fi /images/banners/
 -d ruokaohje.fi /ban*/
--d rytmi.com /kuvat/tausta
 -d s-kanava.* /getbinary?siteId=1&src=/kuvat/kuvapankki/bannerit/
 -d s-matkat.fi /mata/images/logos/
 -d saariselka.fi /rtg*.swf
@@ -1258,7 +1245,6 @@ msFilterList
 -d sotkamolehti.fi /meedio_sotkamo_lehti.js
 -d sotkamolehti.fi /mpbanner/
 -d sottiisi.net /www/images/stories/kansanmusiikki.jpg
--d soundi.fi /sites/soundi.fi/themes/soundi/ads/
 -d spauk.fi /spauk-assa.jpg
 -d spauk.fi /spauk-elcar.jpg
 -d spauk.fi /spauk-peugeot.jpg
