@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504271718
+# Version: 201504280820
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 27 Apr 2015 17:18 UTC
+# Last modified: 28 Apr 2015 08:20 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -41,10 +41,13 @@ msFilterList
 -d fin5.fi /wp-content/uploads/*palkki_
 -d goldenring.fi /banners/
 -d heinola.net /banners/
+-d javo.fi /banners/
 -d nesteoilrallyfinland.fi /images/thumbs/
 -d oldstory.fi /wp-content/uploads/*logot_alarimpsu_
 -d oldstory.fi /wp-content/uploads/*ylabanneri_
 -d palloliitto.fi /sponsor-main-logo/
+-d pattijoenurheilijat.fi /Bannerit/
+-d pesaysit.fi /imgthumb.php?taulu=linkit
 -d riverball.fi /banners/
 -d tekniikkaparkki.fi /wp-content/uploads/*_banneri_
 -d vuokralaiset.fi /bannerit2012/
@@ -883,7 +886,6 @@ msFilterList
 -d nettikaravaani.com /topBanner.php
 -d nettikaravaani.com /vifBoxBanner.html
 -d nettikaravaani.com /banner/
--d nettikirjakauppa.com /flash/
 -d nettikone.com /leftBanner.php
 -d nettikone.com /topBanner.php
 -d nettikone.com /vifBoxBanner.html
@@ -1158,7 +1160,6 @@ msFilterList
 -d rytmi.com /kuvat/tausta
 -d s-kanava.* /getbinary?siteId=1&src=/kuvat/kuvapankki/bannerit/
 -d s-matkat.fi /mata/images/logos/
--d s-pankki.fi /henkiloasiakkaat/*/*/_files/*/default/*.swf
 -d saariselka.fi /rtg*.swf
 -d saaristo-open.fi /wp-content/themes/saaristoopen/images/yhteistyo/
 -d sahkoala.fi /bannerit/
@@ -1212,7 +1213,6 @@ msFilterList
 -d semio.fi /img/header/*banneri.jpg
 -d services.corame.fi /tervemedia/partner-feed/
 -d sestatic.net /banner.
--d seutuneloset.fi /images/CCDeitti-silma-200x200.jpg
 -d seven-1.com /matkalehti/
 -d sey.fi /files/*banner
 -d sfnet.fi /banners/
