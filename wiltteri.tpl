@@ -1,8 +1,8 @@
 msFilterList
-# Version: 201504281600
+# Version: 201505081744
 # Title: Wiltteri
 # Description: Finnish supplement list for EasyList
-# Last modified: 28 Apr 2015 16:00 UTC
+# Last modified: 08 May 2015 17:44 UTC
 : Expires=4
 # Homepage: https://github.com/wiltteri/
 # License: unlicense.org/
@@ -51,6 +51,7 @@ msFilterList
 -d riverball.fi /banners/
 -d takilta.fi /banners/
 -d tekniikkaparkki.fi /wp-content/uploads/*_banneri_
+-d telkku.com /images/nostot/
 -d vuokralaiset.fi /bannerit2012/
 -d xracing.fi /tiedostot/
 -d 193.93.132.142 /*ads
@@ -74,7 +75,6 @@ msFilterList
 -d acoulu.faarao.org /files/images/bannerit/
 -d acoulu.fi /files/images/bannerit/
 -d adcampaigns.sharewood.org
--d adhost.telkku.com
 -d adoptioperheet.fi /banner
 -d afrikka.net /gfx/*banner
 -d afterdawn.fi /partner/
@@ -145,7 +145,6 @@ msFilterList
 -d automaatiotekniikankilta.fi /gfx/wartsila.gif
 -d autot.oikotie.fi /commercial/iframe?
 -d autotalli.com /autotalli_upotus/
--d autotalli.com /bannerdata/
 -d avain.net /banner
 -d baarihaku.fi /banner
 -d bajahill.net /banner/
@@ -1378,7 +1377,6 @@ msFilterList
 -d teatterikesa.fi /footerRoller.js
 -d teivonravit.fi /banner/
 -d tekniikanmaailma.fi /bannerit/
--d telkku.com /images/nostot/
 -d tennis.fi /img/sitebanner/
 -d tenojoki.fi /tenopaasivut/images/logot/
 -d terassilehti.fi /images/stories/*banner*/
@@ -1607,6 +1605,7 @@ msFilterList
 -d seksitreffit.com /mainosmokkula/
 # -------------------- thirdparty.txt -------------------- !
 -d uratie.fi
+# Alma Media
 # Sanoma
 -d oikotie.fi /ext/
 -d tyonantaja.oikotie.fi
@@ -1614,18 +1613,11 @@ msFilterList
 -d adservicemedia.dk
 -d aller.fi /banner/
 -d almamedia.fi /mp/
--d autotalli.com /externalquicksearch?
--d autotalli.com /html_multibanner/
--d autotalli.com /htmlbanners/
 -d bmm.fi
 -d cromet.fi /commercials/
--d eas.almamedia.fi
 -d etuovi.com /etuovi/flash/*_300x355.swf
--d etuovi.com /htmlbanners/
 -d faarao.org
 -d hotellimaailma.fi
--d iltalehti.fi /nostot/
--d iltalehti.fi /uutisboksi/
 -d indiedays.com /sidebar-
 -d kannet.kuvalehdet.fi /w100_
 -d kauppalehti.fi /asc/
